@@ -48,6 +48,6 @@ Avant de passer au contenu spécifique de web3, assurez-vous d'avoir quelques co
 - Node.js
 - React
 
-You can learn them in parallel if you want to, but having background knowledge will definitely help! Especially as you continue on tracks beyond Freshman.
+Vous pouvez les apprendre en parallèle si vous le souhaitez, mais avoir des connaissances de base vous aidera certainement ! Surtout si vous poursuivez vos études au-delà de Freshman.
 
 <SubmitQuiz />
